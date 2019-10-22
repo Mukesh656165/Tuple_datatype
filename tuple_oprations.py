@@ -41,4 +41,9 @@ print(t4[0])
 print(t4[-1])
 print(t4)
 
+'''reverse the tuple using reversed method'''
+tup =('jango','flask','robot','Tenserflow')
+rev = tuple(reversed(tup))
+print(rev)
+
 
